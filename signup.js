@@ -35,7 +35,7 @@ document.addEventListener("DOMContentLoaded", function () {
       alert("Account created successfully! Please log in.");
   
       // Redirect to the login page
-      window.location.href = "login_index.html";
+      window.location.href = "index.html";
     });
   });
   
